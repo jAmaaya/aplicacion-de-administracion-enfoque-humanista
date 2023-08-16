@@ -2,7 +2,7 @@
 
 ![Human Insights and Management Theories App](src/assets/captura.png)
 
-The Human Insights and Management Theories App is a comprehensive web application that delves into the profound contributions of Elton Mayo, Abraham Maslow, and Douglas McGregor to the fields of psychology, human behavior, and management. This app serves as an educational resource, shedding light on their theories and their impact on modern management practices. Through user-friendly interfaces and interactive content, users can explore the foundational concepts that have shaped organizational dynamics. You can access the live application here: [Human Insights and Management Theories App](https://human-insights-app.netlify.app).
+The Human Insights and Management Theories App is a comprehensive web application that delves into the profound contributions of Elton Mayo, Abraham Maslow, and Douglas McGregor to the fields of psychology, human behavior, and management. This app serves as an educational resource, shedding light on their theories and their impact on modern management practices. Through user-friendly interfaces and interactive content, users can explore the foundational concepts that have shaped organizational dynamics. You can access the live application here: [Human Insights and Management Theories App](administracion-enfoque-humanista.netlify.app).
 
 ## Features
 
